@@ -10,8 +10,9 @@
 <img src=https://go-skill-icons.vercel.app/api/icons?i=py,rust,ts,js,html,css,cs,git,nodejs,npm/>
 </div>
 
+<div>
 [![Evgongora's GitHub stats](https://github-readme-stats.vercel.app/api?username=evgongora)](https://github.com/evgongora/github-readme-stats)
-
+</div>
 <!--
 **evgongora/evgongora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
