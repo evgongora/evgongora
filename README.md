@@ -11,7 +11,7 @@
 </div>
 <br><br/>
 
-[![Evgongora's GitHub stats](https://github-readme-stats.vercel.app/api?username=evgongora)](https://github.com/evgongora/github-readme-stats&show_icons=true&theme=radical))
+[![Evgongora's GitHub stats](https://github-readme-stats.vercel.app/api?username=evgongora)](https://github.com/evgongora/github-readme-stats&theme=radical))
 
 <!--
 **evgongora/evgongora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
