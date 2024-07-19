@@ -10,7 +10,8 @@
 </div>
 <br><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) ![Evgongora's GitHub stats](https://github-readme-stats.vercel.app/api?username=evgongora&show_icons=true&theme=vue-dark)
+![Evgongora's GitHub stats](https://github-readme-stats.vercel.app/api?username=evgongora&show_icons=true&theme=vue-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) 
 
 <!--
 **evgongora/evgongora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
