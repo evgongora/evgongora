@@ -1,4 +1,13 @@
-## Hi there 👋
+<h1>Hello! My name is Erick Vasquez👋</h1>
+<br>
+
+<h3>🎓 Systems Engineer Student focusing on fullstack web development.</h3>
+
+<h3>💻 Interested in learning new technologies, web3 & blockchain</h3>
+
+<div>Some of my languages and Tools:
+<img src=https://skillicons.dev/icons?i=js,html,css,wasm/>
+</div>
 
 <!--
 **evgongora/evgongora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
