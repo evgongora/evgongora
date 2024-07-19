@@ -1,4 +1,4 @@
-<h1>Hello! My name is Erick Vasquez👋</h1>
+<h1>Hello! My name is Erick👋</h1>
 <br><br/>
 
 <p>🎓 Systems Engineer Student focusing on fullstack web development.</p>
