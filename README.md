@@ -6,8 +6,8 @@
 <p>💻 Interested in learning new technologies, web3 & blockchain</p>
 
 <div>
-  <h3>Some of my languages and Tools:</h3>
-<img src=https://skillicons.dev/icons?i=js,html,css,wasm/>
+  <h3>Some Of The Languages and Tools I'm Using And Learning:</h3>
+<img src=https://skillicons.dev/icons?i=py,rust,ts,js,html,css,wasm,cs,git,nodejs,npm,cairo&theme=dark/>
 </div>
 
 <!--
