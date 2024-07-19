@@ -13,7 +13,7 @@
 ![Evgongora's GitHub stats](https://github-readme-stats.vercel.app/api?username=evgongora&show_icons=true&theme=vue-dark)
 <div></div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evgongoralayout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evgongora&layout=compact)
 
 <!--
 **evgongora/evgongora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
