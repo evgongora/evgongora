@@ -1,11 +1,12 @@
 <h1>Hello! My name is Erick Vasquez👋</h1>
 <br>
 
-<h3>🎓 Systems Engineer Student focusing on fullstack web development.</h3>
+<p>🎓 Systems Engineer Student focusing on fullstack web development.</p>
 
-<h3>💻 Interested in learning new technologies, web3 & blockchain</h3>
+<p>💻 Interested in learning new technologies, web3 & blockchain</p>
 
-<div>Some of my languages and Tools:
+<div>
+  <h3>Some of my languages and Tools:</h3>
 <img src=https://skillicons.dev/icons?i=js,html,css,wasm/>
 </div>
 
