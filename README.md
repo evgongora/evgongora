@@ -1,10 +1,10 @@
 <h1>Hello! My name is Erick👋</h1>
 <br><br/>
 
-<p>🎓 Systems Engineer Student focusing on fullstack web development.</p>
-
-<p>💻 Interested in learning new technologies, web3 & blockchain</p>
-
+<div>
+  <p>🎓 Systems Engineer Student focusing on fullstack web development.</p>
+  <p>💻 Interested in learning new technologies, web3 & blockchain</p>
+</div>
 <div>
   <h3>🚀 Technologies</h3>
 <img src=https://go-skill-icons.vercel.app/api/icons?i=py,rust,ts,js,html,css,cs,git,nodejs,npm/>
