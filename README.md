@@ -7,7 +7,7 @@
 
 <div>
   <h3>Some Of The Languages and Tools I'm Using And Learning:</h3>
-<img src=https://skillicons.dev/icons?i=py,rust,ts,js,html,css,wasm,cs,git,nodejs,npm&theme=dark/>
+<img src=https://skillicons.dev/icons?i=py,rust,ts,js,html,css,wasm,cs,git,nodejs,npm,cairo/>
 </div>
 
 <!--
