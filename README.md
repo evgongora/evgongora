@@ -1,8 +1,7 @@
 <h1>Hello! My name is Erick👋</h1>
 <br><br/>
-
 <div>
-  <p>🎓 Systems Engineer Student focusing on fullstack web development.</p>
+  <p>🎓 Systems Engineer student focusing on fullstack web development.</p>
   <p>💻 Interested in learning new technologies, web3 & blockchain</p>
 </div>
 <div>
