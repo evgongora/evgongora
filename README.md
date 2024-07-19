@@ -7,7 +7,7 @@
 
 <div>
   <h3>Languages and tools I'm using and learning:</h3>
-<img src=https://go-skill-icons.vercel.app/api/icons?i=py,rust,ts,js,html,css,wasm,cs,git,nodejs,npm/>
+<img src=https://go-skill-icons.vercel.app/api/icons?i=py,rust,ts,js,html,css,cs,git,nodejs,npm/>
 </div>
 
 <!--
