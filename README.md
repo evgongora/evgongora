@@ -6,7 +6,7 @@
 
 <div>
   <h3>🚀 Technologies</h3>
-  <img src=https://go-skill-icons.vercel.app/api/icons?i=py,rust,ts,js,html,css,cs,git,nodejs,npm/>
+  <img src=https://go-skill-icons.vercel.app/api/icons?i=py,rust,ts,js,html,css,cs,git,nodejs,npm,cairo/>
 </div>
 <br><br/>
 
