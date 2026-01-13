@@ -79,8 +79,4 @@ Feel free to explore my repositories, reach out, or collaborate on something exc
   <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHVqM3I1bzU0Z3JvZjgyYWxkY2tydXhsZHRnem8wZXhoNGo4MzQ3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif" />
 </div>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/evgongora/count.svg?"  />
-</div>
-
 ###
