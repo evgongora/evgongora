@@ -26,16 +26,17 @@ Feel free to explore my repositories, reach out, or collaborate on something exc
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=evgongora&show_icons=true&include_all_commits=true&count_private=true&theme=radical&rank_icon=github&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api?username=evgongora&show_icons=true&include_all_commits=true&count_private=true&theme=radical&rank_icon=github&cache_seconds=21600"
     height="150"
     alt="GitHub stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=evgongora&layout=compact&langs_count=6&theme=radical"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=evgongora&layout=compact&langs_count=6&theme=radical&cache_seconds=21600"
     height="150"
     alt="Top languages"
   />
 </div>
+
 ---
 
 <div align="center">
